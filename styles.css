@@ -1,0 +1,20 @@
+body {
+    background-color: #2e2e5f;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#input {
+    display: flex;
+    background-color: aliceblue;
+    flex-direction: column;
+    width: 50%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
